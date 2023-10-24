@@ -17,7 +17,7 @@ The random encounter the players will experience are typically rolled up from a 
 | 5 | Change in local conditions |
 | 6 | Roll 2d6 and combine results |
 
-Most of these are fairly straight forward encounter die outcomes. When encountering two different factions you can roll a reaction die to see how the factions exist in relation to one another. To help set the scene you might also want to make a roll about what their hostilities or cooperation is about. Vaults of Vaarnhas lots of tables for that sort of thing, but here are some general goals that are kind of generic and work in a variety of settings:
+Most of these are fairly straight forward encounter die outcomes. When encountering two different factions you can roll a reaction die to see how the factions exist in relation to one another. To help set the scene you might also want to make a roll about what their hostilities or cooperation is about. Vaults of Vaarn has lots of tables for that sort of thing, but here are some general goals that are kind of generic and work in a variety of settings:
 
 - Water
 - To Get Somewhere
