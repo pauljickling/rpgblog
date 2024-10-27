@@ -21,3 +21,5 @@ A collection of links to adventure design/GMing tips I find helpful in no partic
 - [How to Handle Parley as OSR DM](https://goblinpunch.blogspot.com/2023/03/how-to-handle-parley-as-osr-dm.html)
 - [Advice for OSR DMs](https://goblinpunch.blogspot.com/2020/05/advice-for-osr-dms.html)
 - [Mothership: Warden's Operation Manual](https://www.tuesdayknightgames.com/collections/mothership-core-rules/products/mothership-wardens-operations-manual)
+- [Blorb Principles](https://idiomdrottning.org/blorb-principles)
+- [Universal System Neutral Stats](https://www.prismaticwasteland.com/blog/universal-system-neutral-stats)
