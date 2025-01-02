@@ -4,21 +4,21 @@ date: 2025-01-02
 title: "How I Design Adventures"
 ---
 
-Designing adventures is one of the essential skills a GM needs to pick up. There's no one right way to do this. The most important criteria is that you're able to run games on a timetable everyone you're playing with is happy, and everyone is having a good time in the process. So you want a process that is time efficient, but also is infused with a level of creativity that you'll be happy about what you're doing. This is what works for me.
+Designing adventures is one of the essential skills a GM needs to pick up. There's no one right way to do this. The most important criteria is that you're able to run games on a timetable that your group is happy with, and everyone is having a good time in the process. So you want a process that is time efficient, but also is infused with a level of creativity that you'll be happy about what you're doing. The following is what works for me.
 
 ## Step 0: Create Brain Dump File
 
-Writing might require discipline, but creativity usually happens in fits & starts. Have somewhere where you store all those stray thoughts. As you populate your adventure with more stuff, you can always refer back to the brain dump to see if anything can be slotted in. Another fun thing to do is pick three random things in your adventure and/or brain dump file, and declare that they are related somehow. You have to come up with an explanation for how they are related. If you come up with something cool, include it!
+Writing might require discipline, but creativity usually happens in fits & starts. Have somewhere where you store all those stray thoughts. As you populate your adventure with more stuff, you can always refer back to the brain dump to see if anything can be slotted in. Another fun thing to do is pick three random things in your adventure and/or brain dump file, and declare that they are related somehow. It's now up to you to come up with some sort of explanation for this relation. If you come up with something cool, include it!
 
-You can also jot down any inspiration you get from things you read, games you play, places you've travelled to, etc. That being said, limit yourself to stuff that works in the context of a tabletop game. A movie might do really cool stuff with out-of-frame sounds, but that's a cool thing you get to do within the context of film, not most other mediums. Similarly, a lot of people were inspired by Elden Ring, but [not all of it translates](https://goblinpunch.blogspot.com/2024/09/lessons-from-elden-ring.html).
+You can also jot down any inspiration you get from things you read, games you play, evil people you read about in the news, places you've travelled to, etc. That being said, limit yourself to stuff that works in the context of a tabletop game. A movie might do really cool stuff with out-of-frame sounds, but that's a cool thing you get to do within the context of film, not most other mediums. Similarly, a lot of people were inspired by Elden Ring, but [not all of it translates](https://goblinpunch.blogspot.com/2024/09/lessons-from-elden-ring.html).
 
 ## Step 1: Decide on a Theme/Premise
 
 We want to get this out of the way before we tackle anything else. Deciding on the theme/premise means defining what the adventure is about. This definition should have a couple of important properties:
 
-- **It succinctly communicates what the adventure is about.** 
-- **It is distinct and evocative.** 
-- **It clearly delineates what is appropriate content for the dungeon.** 
+- **It succinctly communicates what the adventure is about** 
+- **It is distinct and evocative**
+- **It clearly delineates what is appropriate content for the dungeon** 
 
 Examples of strong themes/premises:
 
@@ -32,7 +32,7 @@ Note that a key feature of the examples given is an implicit location. This migh
 
 ## Step 2: Define Factions
 
-Presumably there are NPCs in your adventure. A faction is any grouping of NPCs, including a solitary NPC! Factions work together towards a common goal. If the faction has more than one type of NPC, there will be a leader. This includes factions with anarcho-communist politics, even among flat power structures implicit leaders naturally emerge even if unspoken. This doesn't need to be like a video game where the leader has boss stats and abilities, they can share statblocks with others if that makes sense, but interactions with leader types of a faction should have an outsized influence on that faction's attitude towards the party.
+Presumably there are NPCs in your adventure. A faction is any grouping of NPCs, including a solitary NPC! Factions work together towards a common goal. If the faction has more than one type of NPC, there will be a leader. This includes factions with anarcho-communist politics, even among flat social systems [implicit power structures form even if they are not formally defined](https://www.jofreeman.com/joreen/tyranny.htm). This doesn't need to be like a video game where the leader has boss stats and abilities, they can share identical statblocks with others if that makes sense, but interactions with the leader of a faction should have an outsized influence on that faction's attitude towards the party.
 
 Personally I think a good adventure should have at least two factions, ideally more. Not all of them should be innately hostile. But having them be of varying degrees of power and malice is a good idea.
 
@@ -58,13 +58,13 @@ Okay, you now have some defined spaces, and you know some basics about what the 
 
 Your NPCs should always have a name, no matter how minor they are. If you don't include a name your players are guaranteed to ask about their name, and you will freeze up in the moment when that happens. Other than that I give NPCs an attitude, occupation, and what they are probably doing. If they need other details then include those, but this is usually enough for me to work with as a GM.
 
-I don't have any really good advice for stocking treasure. Maybe that is something for a future blog post. Treasure should have a good description attached to it. If a description of a piece of treasure is so enticing that your players take stupid risks to try and acquire it, you've done your job.
+I don't have any especially helpful advice for stocking treasure. Maybe that is something to think harder on and write up for a future blog post. Treasure should have a good description attached to it. If a description of a piece of treasure is so enticing that your players take stupid risks to try and acquire it, you've done your job.
 
-When I say traps, I use that word mostly because that is the convention of how we talk about RPGs, but I think a better word and way to think about traps is describing them as "complications". In other words, anything that creates some sort of complication for the players. This is another big topic though, and probably worthy of another blog post all on its own, and it has been written about extensively all over the OSR blogosphere.
+When I say traps, I use that word mostly because that is the convention of how we talk about RPGs, but I think a better word and way to think about traps is describing them as "complications". In other words, literally anything that creates some sort of complication for the players. Traps and puzzles fit the bill, but it could also be things like bad weather or two NPCs in the middle of an argument. This is another big topic though, and probably worthy of another blog post all on its own, and it has been written about extensively all over the OSR blogosphere.
 
 ## Step 5: Connect the Spaces
 
-I typically only start connecting the spaces now. The exception might be for an adventure like [While the Alchemist is Away](https://semitext.itch.io/while-the-alchemist-is-away) where I was actively collaborating with the artist. In that case I had the sketch of a map illustration to work with, and so I could let my imagination run wild on how the rooms worked based on this sketch. But typically a map I draw isn't going to lead to any inspiration, so instead the mapping will be inspired by the keyed writing for the spaces. I suspect the order that makes sense for you will have more to do with whether you are more of a visual or a verbal kind of person. Either way, this is the point where we are logically organizing our physical space, what connects to what, with special attention to entrances/exits, and connections that aren't a basic path (secret passages, spaces divided by a chasm, trap doors that lead to other floors, etc.) I'm also contractually obligated to mention that you should be [Jaquaysing your dungeon](https://whosemeasure.blogspot.com/2024/02/considerations-on-jaquaysing-dungeon.html).
+I typically only start connecting the spaces now. The exception might be for an adventure like [While the Alchemist is Away](https://semitext.itch.io/while-the-alchemist-is-away) where I was actively collaborating with the artist. In that case I had the sketch of a map illustration to work with, and so I could let my imagination run wild on how the rooms worked based on this sketch. But typically a map I draw isn't going to lead to any inspiration, so instead the mapping will be inspired by the keyed writing for the spaces. I suspect the order that makes sense for you will have more to do with whether you are more of a visual or a verbal kind of person. Either way, this is the point where we are logically organizing our physical space, what connects to what, with special attention to entrances/exits, and connections that aren't a basic path (secret passages, spaces divided by a chasm, trap doors that lead to other floors, etc.) I'm also contractually obligated to mention that you should be [Jaquaysing your dungeon](https://whosemeasure.blogspot.com/2024/02/considerations-on-jaquaysing-dungeon.html). I tend to lean more towards designing spaces with versimillitude than a perfectly Jaquaysed space, but you know, if you see an opportunity to include an extra loop and what not, go for it.
 
 ## Step 6: The Extra Bits
 
