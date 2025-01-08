@@ -4,6 +4,8 @@ date: 2025-01-07
 title: "Random Table Review: Ruislip Random Encounters"
 ---
 
+**There is an addendum that provides a clarification to this blog post.**
+
 For the new year I thought I'd start off with a new series. Reviews of RPG rulebooks and to a lesser extent adventure modules are a dime a dozen. But what about the random tables? There is a strain of thought in the RPG scene (not one I personally share fwiw) that the value of any RPG material are the random tables it provides the GM. There are plenty of blog posts with random tables about all manner of things that can be imagined. What this series dares to ask is how do we feel about these tables?
 
 Methodology: Roll on the table 3 times. Do any subrolls if necessary. Write out thoughts on if I'd use this/how I would use it.
@@ -47,3 +49,5 @@ What I would do to fine-tune this table:
 - Change the roll for corpses/conflicts from d20 to d12, and move the conflict out of the 12 slot to somewhere else. It reduces the range of possibilities, but in exchange we guarantee immediate, usable results.
 
 That does it for this entry. If you have a random table you'd like me to write about, feel free to message me on Bluesky @semitext.xyz
+
+**Addendum:** I just looked at the PDF for the Ruislip section of Wolves Upon the Coast, and noticed the random encounter entry is structured significantly differently from the one in the blog post. The modifications make the criticisms I had of the table completely moot, conflict and corpse rolls are higher than 20, so there is no ambigutity about those rolls anymore. It also makes encounters more likely than the one in the blog post. Instead of a 19+ being no encounter, it is now a 91+ that is no encounter. The odds for conflict or corpse encounters are increased, and the conditional encounters are greatly increased. All these changes make a lot of sense to me. There's cool stuff that can happen in these encounters, so upping the odds of them occurring makes sense. In the blog post version, the odds of the conditional encounters was basically non-existent since you have a 1% chance of rolling it, and the condition has to be valid.
