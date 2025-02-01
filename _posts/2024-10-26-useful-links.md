@@ -23,3 +23,4 @@ A collection of links to adventure design/GMing tips I find helpful in no partic
 - [Mothership: Warden's Operation Manual](https://www.tuesdayknightgames.com/collections/mothership-core-rules/products/mothership-wardens-operations-manual)
 - [Blorb Principles](https://idiomdrottning.org/blorb-principles)
 - [Universal System Neutral Stats](https://www.prismaticwasteland.com/blog/universal-system-neutral-stats)
+- [Mausritter Adventure Design Guide](https://www.notion.so/Adventure-design-technical-details-8c9fd7e0aec6459c8490d8b9cffa2fe3)
