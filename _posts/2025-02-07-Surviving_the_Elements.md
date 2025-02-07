@@ -4,7 +4,7 @@ date: 2025-02-07
 title: "Surviving the Elements"
 ---
 
-Dungeons have lots of procedures that make exploring them interesting: random encounters, torch usage, constrained movement, an inability to safely heal, etc. Overland travel has some of these features, but they tend to feel much looser, and so it is often the case that overland travel is breezed past instead of being an interesting aspect of of exploration in its own right. Sometimes that is warranted (travelling between well patrolled towns for example), but it is worth having some tools in your belt for when you want to up the stakes. I'll skip over random encounters since that will work much the same way if on a different time scale compared to dungeon exploration, but there are other features of dungeon exploration that can be transposed to overland travel.
+Dungeons have lots of procedures that make exploring them interesting: random encounters, torch usage, constrained movement, an inability to safely heal, etc. Overland travel has some of these features, but they tend to feel much looser, and so it is often the case that overland travel is breezed past instead of being an interesting aspect of exploration in its own right. Sometimes that is warranted (travelling between well patrolled towns for example), but it is worth having some tools in your belt for when you want to up the stakes. I'll skip over random encounters since that will work much the same way if on a different time scale compared to dungeon exploration, but there are other features of dungeon exploration that can be transposed to overland travel.
 
 ## Resource Exhaustion
 
@@ -18,7 +18,7 @@ Being outside of a safe biome should create a time pressure. Extreme heat or col
 
 Some notes on extreme weather conditions. Snow, mud, and ice all slow down travel, and in some cases increase risks of injury. Extreme cold makes it harder to use objects easily (speaking from personal experience coming back home when I lived in Chicago and it was -30F, and I wasn't sure if I would be able to get myself into my house because my hands were so cold I struggled to use the key to unlock the door to get inside). If you don't have proper clothing all the worse. Extreme heat makes it easier to pass out, and in general saps your energy. Being stuck in heavy rain can increase the chance of contracting illness. Walking in boots becomes challenging when water gets inside. In case of floods walking becomes impossible by the time it reaches knee length. Strong winds increase the risk of falling objects.
 
-## Getting Lost
+### Note on Getting Lost
 
 I generally don't use getting lost mechanics as they aren't very fun or interesting. On the other hand, if a party chooses to travel in weather conditions where visibility is especially bad (heavy fog, sandstorms, etc.) it makes sense to have an x-in-6 chance of getting lost. You can use the die roll to also use whatever unit of time is appropriate to detemine how long it will take to get back on track.
 
