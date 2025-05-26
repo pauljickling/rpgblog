@@ -3,7 +3,7 @@ layout: post
 date: 2025-05-26
 title: "How Do You Know Its Magic"
 ---
-![A kngiht riding a horse in the snow as armed villagers look on from behind a rock](/assets/sapphire-fear-768.jpg)
+![A knight riding a horse in the snow as armed villagers look on from behind a rock](/assets/sapphire-fear-768.jpg)
 
 How does the party know if an item has magical effects? In B/X you don't. You would need to cast a detect magic spell which causes magical things to glow. If you don't have a magic-user with that spell in your party, you'll need to pay an NPC. You don't gain XP for acquiring magical treasure. The idea is you are selling off the other stuff you find in the dungeon, and spending that money to ID the magic items you'll be using in the future. Since most things an adventurer is looking to buy is trivial in cost this is an important aspect of the game economics.
 
