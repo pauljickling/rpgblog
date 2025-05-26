@@ -32,3 +32,4 @@ A collection of links to adventure design/GMing tips I find helpful in no partic
 - [100 Arrows](https://losing.games/2018-12-3-special-arrows/)
 - [Portrait Generator](https://losing.games/2018-11-28-portrait-generator/)
 - [Dungeon Room Index](https://dungeonscrawler.blogspot.com/p/dungeon-room-index.html)
+- [Doors: History, Repair and Conservation](https://ebrary.net/281195/environment/introduction#26)
