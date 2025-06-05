@@ -37,7 +37,26 @@ body {
     radial-gradient(circle at 80% 20%, rgba(74, 55, 40, 0.1) 0%, transparent 50%),
     radial-gradient(circle at 40% 80%, rgba(44, 24, 16, 0.05) 0%, transparent 50%);
 }
+.page-content {
+  position: relative;
+  z-index: 1;
+}
 
+.page-content::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/assets/landscape-ruins-savery.jpg');
+  background-repeat: no-repeat;
+  background-position: right 50% center;
+  background-size: cover; 
+  filter: grayscale(100%);
+  opacity: 0.2; 
+  z-index: -1; 
+}
 // Headers
 h1, h2, h3, h4, h5, h6 {
   font-family: $heading-font-family;
@@ -53,16 +72,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-title:hover {
-  color: $osr-accent !important;
-}
+  color: $osr-accent !important left 5% / 15% 60% repeat-x}
 
 // Site header
 .site-header {
   border-top: none;
   border-bottom: 3px solid $osr-accent;
   background: 
-    linear-gradient(135deg, rgba(244, 241, 232, 0.95) 0%, rgba(244, 241, 232, 0.98) 100%),
-    url('/assets/castle-ruins-friedrich.jpg');
+    url('/assets/castle-ruins-friedrich.jpg'); 
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
