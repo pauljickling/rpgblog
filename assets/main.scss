@@ -1,0 +1,277 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=Cinzel:wght@400;500;600&display=swap');
+@import "minima";
+
+// Theme Variables
+$osr-primary: #2c1810;
+$osr-secondary: #4a3728;
+$osr-accent: #8b6914;
+$osr-light: #f4f1e8;
+$osr-dark: #1a0f08;
+$osr-muted: #6b5b4a;
+
+// Typography
+$base-font-family: 'Crimson Text', serif;
+$heading-font-family: 'Cinzel', serif;
+
+// Override Minima variables
+$background-color: $osr-light;
+$text-color: $osr-primary;
+$brand-color: $osr-accent;
+$grey-color: $osr-muted;
+$link-base-color: $osr-secondary;
+$link-visited-color: darken($osr-secondary, 15%);
+$link-hover-color: $osr-accent;
+
+body {
+  font-family: $base-font-family;
+  font-size: 1.3rem;
+  background-color: $background-color;
+  color: $text-color;
+  line-height: 1.6;
+  background-image: 
+    radial-gradient(circle at 20% 50%, rgba(139, 105, 20, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(74, 55, 40, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 40% 80%, rgba(44, 24, 16, 0.05) 0%, transparent 50%);
+}
+
+// Headers
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+  color: $osr-dark;
+}
+
+.site-title {
+  font-family: $heading-font-family;
+  font-weight: 600;
+  font-size: 1.8rem;
+  color: $osr-dark !important;
+  text-decoration: none !important;
+}
+
+.site-title:hover {
+  color: $osr-accent !important;
+}
+
+// Site header
+.site-header {
+  border-top: none;
+  border-bottom: 3px solid $osr-accent;
+  background: 
+    linear-gradient(135deg, rgba(244, 241, 232, 0.95) 0%, rgba(244, 241, 232, 0.98) 100%),
+    url('/assets/castle-ruins-friedrich.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  min-height: 120px;
+  display: flex;
+  align-items: center;
+  
+  .wrapper {
+    position: relative;
+    width: 100%;
+    
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, $osr-accent 0%, $osr-secondary 50%, $osr-accent 100%);
+    }
+  }
+}
+
+// p tags
+p {
+  margin-bottom: 2rem;
+}
+
+// Navigation styling
+.site-nav {
+  .page-link {
+    font-family: $heading-font-family;
+    color: $osr-secondary;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    
+    &:hover {
+      color: $osr-accent;
+      text-decoration: none;
+    }
+  }
+}
+
+// Post content with alternating layout for wide screens
+.post-content {
+  @media screen and (min-width: 1200px) {
+    max-width: none;
+    
+    p {
+      max-width: 80ch;
+      margin-left: auto;
+      margin-right: auto;
+      clear: both;
+
+    }
+    
+    // Reset float for non-paragraph elements
+    h1, h2, h3, h4, h5, h6, ul, ol, blockquote, pre, .highlighter-rouge, img {
+      clear: both;
+      float: none;
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    // Ensure images and block elements span full width
+    img, blockquote, pre, .highlighter-rouge {
+      width: 100%;
+      max-width: 800px;
+    }
+  }
+}
+
+// Enhanced blockquote styling
+blockquote {
+  border-left: 4px solid $osr-accent;
+  background: rgba(139, 105, 20, 0.05);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  position: relative;
+  
+  &::before {
+    content: '"';
+    font-size: 3rem;
+    color: $osr-accent;
+    position: absolute;
+    top: -0.5rem;
+    left: 0.5rem;
+    font-family: $heading-font-family;
+  }
+  
+  p {
+    margin-bottom: 0;
+    padding-left: 1rem;
+  }
+}
+
+// Post header styling
+.post-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid $osr-accent;
+  
+  .post-title {
+    font-size: 2.5rem;
+    color: $osr-dark;
+    margin-bottom: 0.5rem;
+  }
+  
+  .post-meta {
+    color: $osr-muted;
+    font-style: italic;
+    font-size: 1.1rem;
+  }
+}
+
+// Enhanced link styling
+a {
+  color: $osr-secondary;
+  text-decoration: underline;
+  text-decoration-color: rgba(74, 55, 40, 0.3);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: $osr-accent;
+    text-decoration-color: $osr-accent;
+  }
+  
+  &:visited {
+    color: darken($osr-secondary, 10%);
+  }
+}
+
+// Footer styling
+.site-footer {
+  background: linear-gradient(135deg, $osr-secondary 0%, $osr-primary 100%);
+  color: $osr-light;
+  border-top: 3px solid $osr-accent;
+  
+  .footer-heading, .contact-list, .social-media-list {
+    color: $osr-light;
+  }
+  
+  a {
+    color: lighten($osr-accent, 20%);
+    
+    &:hover {
+      color: $osr-light;
+    }
+  }
+}
+
+// Home page post list styling
+.post-list {
+  .post-link {
+    font-family: $heading-font-family;
+    font-size: 1.5rem;
+    color: $osr-dark;
+    
+    &:hover {
+      color: $osr-accent;
+      text-decoration: none;
+    }
+  }
+  
+  .post-meta {
+    color: $osr-muted;
+    font-style: italic;
+  }
+}
+
+// Code blocks
+.highlighter-rouge {
+  background: rgba(244, 241, 232, 0.8);
+  border: 1px solid $osr-muted;
+  border-radius: 3px;
+}
+
+pre, code {
+  background: rgba(244, 241, 232, 0.8);
+  border: 1px solid rgba(139, 105, 20, 0.2);
+  color: $osr-dark;
+}
+
+// Image styling
+img {
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  margin: 1.5rem auto;
+  display: block;
+}
+
+// Responsive adjustments
+@media screen and (max-width: 800px) {
+  .site-title {
+    font-size: 1.5rem;
+  }
+  
+  .post-title {
+    font-size: 2rem !important;
+  }
+  
+  .post-content p {
+    max-width: 100% !important;
+    float: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
