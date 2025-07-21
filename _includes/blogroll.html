@@ -1,0 +1,104 @@
+<div class="blogroll-sidebar" id="blogrollSidebar">
+  <div class="blogroll-toggle" onclick="toggleBlogroll()">
+    <span class="blogroll-icon">📚</span>
+    <span class="blogroll-text">Blogroll</span>
+    <span class="blogroll-arrow" id="blogrollArrow">▶</span>
+  </div>
+  
+  <div class="blogroll-content" id="blogrollContent">
+    <div class="blogroll-header">
+    </div>
+    
+    <ul class="blogroll-list">
+      <li>
+        <a href="https://alldeadgenerations.blogspot.com" target="_blank" rel="noopener">
+          All Dead Generations
+        </a>
+      </li>
+      <li>
+        <a href="https://blogsontape.paperspencils.com/" target="_blank" rel="noopener">
+          Blogs on Tape
+        </a>
+      </li>
+      <li>
+        <a href="https://diyanddragons.blogspot.com/" target="_blank" rel="noopener">
+          DIY & Dragons
+        </a>
+      </li>
+      <li>
+        <a href="https://explorersdesign.com" target="_blank" rel="noopener">
+          Explorer's Design
+        </a>
+      </li>
+      <li>
+        <a href="https://goblinpunch.blogspot.com" target="_blank" rel="noopener">
+          Goblin Punch
+        </a>
+      </li>
+      <li>
+        <a href="https://icastlight.blogspot.com" target="_blank" rel="noopener">
+          I Cast Light
+        </a>
+      </li>
+      <li>
+        <a href="https://lukegearing.blot.im" target="_blank" rel="noopener">
+          Luke Gearing
+        </a>
+      </li>
+      <li>
+        <a href="https://maziriansgarden.blogspot.com/" target="_blank" rel="noopener">
+          Mazirian's Garden
+        </a>
+      </li>
+      <li>
+        <a href="https://necropraxis.blogspot.com" target="_blank" rel="noopener">
+          Necropraxis
+        </a>
+      </li>
+      <li>
+        <a href="https://prismaticwasteland.com" target="_blank" rel="noopener">
+          Prismatic Wasteland
+        </a>
+      </li>
+      <li>
+        <a href="https://silverarmpress.com/blog" target="_blank" rel="noopener">
+          Silverarm Press
+        </a>
+      </li>
+      <li>
+        <a href="https://vaultsofvaarn.com" target="_blank" rel="noopener">
+          Vaults of Vaarn
+        </a>
+      </li>
+      <li>
+        <a href="https://weirdwonder.bearblog.dev" target="_blank" rel="noopener">
+          Weird Wonder
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+function toggleBlogroll() {
+  const content = document.getElementById('blogrollContent');
+  const arrow = document.getElementById('blogrollArrow');
+  const sidebar = document.getElementById('blogrollSidebar');
+  
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+    arrow.innerHTML = '▼';
+    sidebar.classList.add('expanded');
+  } else {
+    content.style.display = 'none';
+    arrow.innerHTML = '▶';
+    sidebar.classList.remove('expanded');
+  }
+}
+
+// Initialize collapsed state
+document.addEventListener('DOMContentLoaded', function() {
+  const content = document.getElementById('blogrollContent');
+  content.style.display = 'none';
+});
+</script>

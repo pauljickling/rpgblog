@@ -275,6 +275,114 @@ img {
   display: block;
 }
 
+// Blogroll sidebar styling
+.blogroll-sidebar {
+  position: fixed;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  background: rgba(244, 241, 232, 0.95);
+  border: 2px solid $osr-accent;
+  border-radius: 8px 0 0 8px;
+  box-shadow: -2px 0 12px rgba(0,0,0,0.1);
+  z-index: 1000;
+  min-width: 60px;
+  transition: all 0.3s ease;
+  
+  &.expanded {
+    min-width: 280px;
+  }
+}
+
+.blogroll-toggle {
+  padding: 12px 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: $osr-accent;
+  color: $osr-light;
+  border-radius: 6px 0 0 6px;
+  font-family: $heading-font-family;
+  font-weight: 500;
+  user-select: none;
+  
+  &:hover {
+    background: darken($osr-accent, 10%);
+  }
+}
+
+.blogroll-icon {
+  font-size: 1.2em;
+  flex-shrink: 0;
+}
+
+.blogroll-text {
+  font-size: 0.9em;
+  white-space: nowrap;
+  display: none;
+}
+
+.blogroll-arrow {
+  font-size: 0.8em;
+  flex-shrink: 0;
+  margin-left: auto;
+}
+
+.blogroll-sidebar.expanded .blogroll-text {
+  display: block;
+}
+
+.blogroll-content {
+  padding: 20px;
+  border-top: 1px solid rgba(139, 105, 20, 0.3);
+  display: none;
+}
+
+.blogroll-header {
+  margin-bottom: 15px;
+  
+  h3 {
+    font-family: $heading-font-family;
+    color: $osr-dark;
+    font-size: 1.1em;
+    margin: 0 0 5px 0;
+  }
+  
+  p {
+    color: $osr-muted;
+    font-size: 0.8em;
+    margin: 0;
+    font-style: italic;
+  }
+}
+
+.blogroll-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  
+  li {
+    margin-bottom: 8px;
+    
+    a {
+      color: $osr-secondary;
+      text-decoration: none;
+      font-size: 0.9em;
+      display: block;
+      padding: 6px 8px;
+      border-radius: 4px;
+      transition: all 0.2s ease;
+      
+      &:hover {
+        background: rgba(139, 105, 20, 0.1);
+        color: $osr-accent;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
 // Responsive adjustments
 @media screen and (max-width: 800px) {
   .site-title {
@@ -290,5 +398,9 @@ img {
     float: none !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
+  }
+  
+  .blogroll-sidebar {
+    display: none;
   }
 }
