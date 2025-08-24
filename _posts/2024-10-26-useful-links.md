@@ -18,6 +18,7 @@ A collection of links to adventure design/GMing tips I find helpful in no partic
 - [How I Make Zines](https://vaultsofvaarn.com/2022/06/25/how-i-make-zines/)
 - [So You Want to Make a Zine: Printing](http://maziriansgarden.blogspot.com/2020/01/so-you-want-to-make-zine-printing.html)
 - [So You Want to Make a Zine: Paper Selection and Physical Assembly](http://maziriansgarden.blogspot.com/2018/10/so-you-want-to-make-zine.html)
+- [Zine Arranger](https://nashhigh.itch.io/zinearranger)
 - [Slay Word Kobolds](https://www.explorersdesign.com/slay-word-kobolds/)
 - [Public Domain Art for Games and Zines](https://losing.games/2021-01-29-public-domain-art-for-games/)
 - [How to Handle Parley as OSR DM](https://goblinpunch.blogspot.com/2023/03/how-to-handle-parley-as-osr-dm.html)
