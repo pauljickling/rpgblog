@@ -30,6 +30,7 @@ A collection of links to adventure design/GMing tips I find helpful in no partic
 - [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free)
 - [Encounter Roles](https://lukegearing.blot.im/encounter-roles)
 - [Running a Game](https://lukegearing.blot.im/running-a-game)
+- [Action-Oriented Interaction](https://aboleth-overlords.com/2025/08/20/action-oriented-interaction/)
 - [100 Arrows](https://losing.games/2018-12-3-special-arrows/)
 - [Portrait Generator](https://losing.games/2018-11-28-portrait-generator/)
 - [Dungeon Room Index](https://dungeonscrawler.blogspot.com/p/dungeon-room-index.html)
