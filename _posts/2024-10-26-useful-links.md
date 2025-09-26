@@ -26,6 +26,7 @@ A collection of links to adventure design/GMing tips I find helpful in no partic
 - [Mothership: Warden's Operation Manual](https://www.tuesdayknightgames.com/collections/mothership-core-rules/products/mothership-wardens-operations-manual)
 - [Blorb Principles](https://idiomdrottning.org/blorb-principles)
 - [Universal System Neutral Stats](https://www.prismaticwasteland.com/blog/universal-system-neutral-stats)
+- [Mythic Bastionland Character Omens](https://dreamingdragonslayer.wordpress.com/2025/08/29/mythic-bastionland-character-omens-ft-dark-souls/)
 - [Maursritter Adventure Design Guide](https://www.notion.so/Adventure-design-technical-details-8c9fd7e0aec6459c8490d8b9cffa2fe3)
 - [Using Markdown and Pandoc to Make RPG Documents for Free](https://lukegearing.blot.im/using-markdown-and-pandoc-to-make-rpg-documents-for-free)
 - [Encounter Roles](https://lukegearing.blot.im/encounter-roles)
