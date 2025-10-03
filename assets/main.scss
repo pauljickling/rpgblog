@@ -255,16 +255,11 @@ a {
 }
 
 // Code blocks
-.highlighter-rouge {
-  background: rgba(244, 241, 232, 0.8);
-  border: 1px solid $osr-muted;
-  border-radius: 3px;
-}
-
 pre, code {
-  background: rgba(244, 241, 232, 0.8);
   border: 1px solid rgba(139, 105, 20, 0.2);
   color: $osr-dark;
+  white-space: pre-wrap;
+  word-wrap: break-word;
 }
 
 // Image styling
