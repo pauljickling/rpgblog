@@ -13,6 +13,7 @@ A collection of links to adventure design/GMing tips I find helpful in no partic
 - [Jewelbox Design and Broken Bastion](https://alldeadgenerations.blogspot.com/2021/02/jewelbox-design-and-broken-bastion.html)
 - [Descent into Avernus - Dungeon Keying](https://alldeadgenerations.blogspot.com/2020/01/descent-to-avernues-discussion-of.html)
 - [The Wilderness Is A Dungeon: Jaquaysing Your RPG Sandbox Setting](https://silverarmpress.com/the-wilderness-is-a-dungeon-jaquaysing-your-rpg-sandbox-setting/)
+- [Laws of the Land](https://wasitlikely.blogspot.com/2023/03/laws-of-land-meaningful-terrain-via-in.html)
 - [Why I Use Point Crawls More Than Hex Crawls](https://silverarmpress.com/why-i-use-point-crawls-more-than-hex-crawls/)
 - [Encounter Checklist](https://www.prismaticwasteland.com/blog/encounter-checklist)
 - [How I Make Zines](https://vaultsofvaarn.com/2022/06/25/how-i-make-zines/)
