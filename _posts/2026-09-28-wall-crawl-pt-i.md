@@ -31,7 +31,7 @@ As an example of the creative gaps, in zine no. 4 you get a few paragraphs about
 2. Because my version of Vaarn leans extremely heavy on the Book of the New Sun influence (far more than Dune, Hyperion, and the rest), and Sargattea strikes me as a city that has been around for a long time, there are more buildings than people here.
 3. Again, Book of the New Sun influence, the social strata of Sargattea is the patricians, then the various guilds that serve the patricians along with the city militia, and then the guildless at the bottom.
 4. Sargattea enforces strict border controls for city entrance and exit. Only patricians, approved commercial orgs, the militia, and guild members can pass through the gates. Guildless residents are essentially trapped in the city.
-5. Patricians control pale ichor resevoirs, so even though there is an abundence of drinkable ichor you still see the sort of debt-token system as you would in Gnomen, perhaps not as strictly enforced, but nevertheless a present aspect of urban life.
+5. Patricians control pale ichor resevoirs, so even though there is an abundance of drinkable ichor you still see the sort of debt-token system as you would in Gnomen, perhaps not as strictly enforced, but nevertheless a present aspect of urban life.
 6. Taxation to maintain public infrastructure is fairly heavy handed.
 7. Due to the importance of these pale ichor resevoirs, patrician family tombs are often located in the sewer systems above the city.
 
