@@ -6,6 +6,7 @@ title: "Useful Links"
 
 A collection of links to adventure design/GMing tips I find helpful in no particular order. I think if there is a throughline for the majority of these posts it is that I tend to like blogs that deal with the nitty gritty of implementing/creating things.
 
+- [Philotomy's Dungeons and Dragons Musings](https://save.vs.totalpartykill.ca/grab-bag/philotomy/)
 - [On thief skills in classic D&D](http://web.fisher.cx/robert/rpg/dnd/thief.html)
 - [On People Centered Adventure Design](https://weirdwonder.bearblog.dev/on-people-centered-adventure-design/)
 - [Seven Maxims of the OSR](https://alldeadgenerations.blogspot.com/2023/08/maxims-of-osr.html)
