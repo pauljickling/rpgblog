@@ -156,6 +156,7 @@ p {
 
 // Enhanced blockquote styling
 blockquote {
+  color: $osr-secondary;
   border-left: 4px solid $osr-accent;
   background: rgba(139, 105, 20, 0.05);
   padding: 1rem 1.5rem;
