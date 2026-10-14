@@ -138,12 +138,21 @@ p {
     }
     
     // Reset float for non-paragraph elements
-    h1, h2, h3, h4, h5, h6, ul, ol, blockquote, pre, .highlighter-rouge, img {
+    h1, h2, h3, h4, h5, h6, blockquote, pre, .highlighter-rouge, img {
       clear: both;
       float: none;
       max-width: 100%;
       margin-left: auto;
       margin-right: auto;
+    }
+
+    // Match the paragraph column, then indent list content inside it
+    > ul, > ol {
+      clear: both;
+      max-width: 80ch;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: $spacing-unit;
     }
     
     // Ensure images and block elements span full width
