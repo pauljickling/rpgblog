@@ -26,6 +26,7 @@ A collection of links to adventure design/GMing tips I find helpful in no partic
 - [Slay Word Kobolds](https://www.explorersdesign.com/slay-word-kobolds/)
 - [Public Domain Art for Games and Zines](https://losing.games/2021-01-29-public-domain-art-for-games/)
 - [How to Handle Parley as OSR DM](https://goblinpunch.blogspot.com/2023/03/how-to-handle-parley-as-osr-dm.html)
+- [Zelda-Style NPC Personalities](https://todistantlands.github.io/2023/06/13/zelda-npcs.html)
 - [Advice for OSR DMs](https://goblinpunch.blogspot.com/2020/05/advice-for-osr-dms.html)
 - [Mothership: Warden's Operation Manual](https://www.tuesdayknightgames.com/collections/mothership-core-rules/products/mothership-wardens-operations-manual)
 - [Blorb Principles](https://idiomdrottning.org/blorb-principles)
